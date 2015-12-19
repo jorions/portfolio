@@ -2,15 +2,15 @@
 <html>
 <head>
     <title>Orion's Artwork</title>
-    <link rel="stylesheet" type="text/css" href="/../styles/styles.css">
-    <link rel="stylesheet" type="text/css" href="/../lightbox/dist/css/lightbox.css">
+    <link rel="stylesheet" type="text/css" href="../styles/styles.css">
+    <link rel="stylesheet" type="text/css" href="../lightbox/dist/css/lightbox.css">
 </head>
 <body>
     <img id="background" src="../images/orion-nebula_2000x2000.jpg" alt="" />
     <?php include "../navigation_menu-1_lvl.html"; ?>
     <div class="spacer-100"></div>
     <div class="grid-wrapper">
-        <a class="button-link" href="images/waves.jpg" data-lightbox="artwork" data-title="Waves<br />4'x3'  |  Oil on canvas<br />An abstracted exploration of the swirling, breaking motion of ocean waves">
+        <a class="button-link" href="images/waves.JPG" data-lightbox="artwork" data-title="Waves<br />4'x3'  |  Oil on canvas<br />An abstracted exploration of the swirling, breaking motion of ocean waves">
             <div class="content-reactive-grid">
                 <div class="port-img">
                     <img src="images/waves-thumb.jpg" alt="An abstracted exploration of the swirling, breaking motion of ocean waves" title="Waves" height="180" width="180" />
@@ -46,7 +46,7 @@
                 </div>
             </div>
         </a>
-        <a class="button-link" href="images/solar_cycle.jpg" data-lightbox="artwork" data-title="Solar Cycle<br />4'x3'  |  Acrylic on canvas<br />An abstracted solar system lifecycle">
+        <a class="button-link" href="images/solar_cycle.JPG" data-lightbox="artwork" data-title="Solar Cycle<br />4'x3'  |  Acrylic on canvas<br />An abstracted solar system lifecycle">
             <div class="content-reactive-grid">
                 <div class="port-img">
                     <img src="images/solar_cycle-thumb.jpg" alt="An abstracted solar system lifecycle" title="Solar Cycle" height="180" width="180" />
@@ -58,7 +58,7 @@
                 </div>
             </div>
         </a>
-        <a class="button-link" href="images/astros.jpg" data-lightbox="artwork" data-title="Ode to Astros<br />24&quot;x18&quot;  |  Prismacolor and charcoal on paper<br />A commemoration of exciting moments and great players in Houston Astros history">
+        <a class="button-link" href="images/astros.JPG" data-lightbox="artwork" data-title="Ode to Astros<br />24&quot;x18&quot;  |  Prismacolor and charcoal on paper<br />A commemoration of exciting moments and great players in Houston Astros history">
             <div class="content-reactive-grid">
                 <div class="port-img">
                     <img src="images/astros-thumb.jpg" alt="A commemoration of exciting moments and great players in Houston Astros history" title="Ode to Astros" height="180" width="180" />
@@ -70,7 +70,7 @@
                 </div>
             </div>
         </a>
-        <a class="button-link" href="images/abstract_1.jpg" data-lightbox="artwork" data-title="Abstract 01<br />16&quot;x16&quot;  |  Oil on canvas<br />Part 1 of an abstract series experimenting with texture, form, and movement">
+        <a class="button-link" href="images/abstract_1.JPG" data-lightbox="artwork" data-title="Abstract 01<br />16&quot;x16&quot;  |  Oil on canvas<br />Part 1 of an abstract series experimenting with texture, form, and movement">
             <div class="content-reactive-grid">
                 <div class="port-img">
                     <img src="images/abstract_1-thumb.jpg" alt="Part 1 of an abstract series experimenting with texture, form, and movement" title="Abstract 01" height="180" width="180" />
@@ -82,7 +82,7 @@
                 </div>
             </div>
         </a>
-        <a class="button-link" href="images/abstract_2.jpg" data-lightbox="artwork" data-title="Abstract 02<br />16&quot;x16&quot; |  Oil on canvas<br />Part 2 of an abstract series experimenting with texture, form, and movement">
+        <a class="button-link" href="images/abstract_2.JPG" data-lightbox="artwork" data-title="Abstract 02<br />16&quot;x16&quot; |  Oil on canvas<br />Part 2 of an abstract series experimenting with texture, form, and movement">
             <div class="content-reactive-grid">
                 <div class="port-img">
                     <img src="images/abstract_2-thumb.jpg" alt="Part 2 of an abstract series experimenting with texture, form, and movement" title="Abstract 02" height="180" width="180" />
@@ -94,7 +94,7 @@
                 </div>
             </div>
         </a>
-        <a class="button-link" href="images/abstract_3.jpg" data-lightbox="artwork" data-title="Abstract 03<br />16&quot;x16&quot;  |  Oil on canvas<br />Part 3 of an abstract series experimenting with texture, form, and movement">
+        <a class="button-link" href="images/abstract_3.JPG" data-lightbox="artwork" data-title="Abstract 03<br />16&quot;x16&quot;  |  Oil on canvas<br />Part 3 of an abstract series experimenting with texture, form, and movement">
             <div class="content-reactive-grid">
                 <div class="port-img">
                     <img src="images/abstract_3-thumb.jpg" alt="Part 3 of an abstract series experimenting with texture, form, and movement" title="Abstract 03" height="180" width="180" />
@@ -118,7 +118,7 @@
                 </div>
             </div>
         </a>
-        <a class="button-link" href="images/rows.jpg" data-lightbox="artwork" data-title="Rows<br />36&quot;x24&quot;  |  Acrylic on canvas<br />People on the move">
+        <a class="button-link" href="images/rows.JPG" data-lightbox="artwork" data-title="Rows<br />36&quot;x24&quot;  |  Acrylic on canvas<br />People on the move">
             <div class="content-reactive-grid">
                 <div class="port-img">
                     <img src="images/rows-thumb.jpg" alt="People on the move" title="TITLE" height="180" width="180" />
@@ -154,7 +154,7 @@
                 </div>
             </div>
         </a>
-        <a class="button-link" href="images/tunnels.jpg" data-lightbox="artwork" data-title="Tunnels<br />6'x4'  |  Oil on canvas<br />A multi-canvas work playing with a sense of spiraling motion and varying depths">
+        <a class="button-link" href="images/tunnels.JPG" data-lightbox="artwork" data-title="Tunnels<br />6'x4'  |  Oil on canvas<br />A multi-canvas work playing with a sense of spiraling motion and varying depths">
             <div class="content-reactive-grid">
                 <div class="port-img">
                     <img src="images/tunnels-thumb.jpg" alt="A multi-canvas work playing with a sense of spiraling motion and varying depths" title="Tunnels" height="180" width="180" />
@@ -201,5 +201,5 @@
     </div>
 
     <!-- script for Lightbox -->
-    <script src="/../lightbox/dist/js/lightbox-plus-jquery.js"></script>
+    <script src="../lightbox/dist/js/lightbox-plus-jquery.js"></script>
 </body>
