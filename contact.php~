@@ -116,7 +116,7 @@
     <a class="button-link" href="https://www.linkedin.com/pub/jared-selcoe/33/26a/ab3" target="_blank">
         <div class="content-reactive">
             <div class="center">
-                <img src="images/linkedin.png" width="100px" height="100px" alt="Jared's LinkedIn" />
+                <img src="/images/linkedin.png" width="100px" height="100px" alt="Jared's LinkedIn" />
             </div>
         </div>
     </a>

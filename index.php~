@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Orion's Nebula</title>
-	<link rel="stylesheet" type="text/css" href="styles/styles.css">
+	<link rel="stylesheet" type="text/css" href="/styles/styles.css">
 </head>
 <body>
 	<img id="background" src="images/orion-nebula_2000x2000.jpg" alt="" />
